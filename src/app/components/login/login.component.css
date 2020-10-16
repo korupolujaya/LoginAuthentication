@@ -1,0 +1,38 @@
+/* .header{
+ background-color:rgb(120, 120, 180);
+ color:whitesmoke;
+    font-size: medium;
+    font-style: italic;
+    padding:1px;
+    
+} */
+
+.login-card{
+    padding:30px;
+    border-radius: 10px;
+}
+
+.float-left{
+   float:left;
+
+}
+
+.header1{
+    background-color:rgb(44, 155, 103);
+    color:whitesmoke;
+       font-size: medium;
+       margin-top:0px;
+       padding:10px;
+}
+.login-form
+    {
+      display:flex;
+      align-content: center;
+     flex-direction:column;
+     justify-content: center;
+        /* padding:30px; */
+        border-radius: 10px;   
+        min-width: 150px;
+        max-width: 500px;
+        width: 70%;
+      }
