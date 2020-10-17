@@ -1,31 +1,23 @@
-.reg-card{
-    
-    margin: 0 auto;
-   padding:30px;
-   
-    width:30%;
+.reg-card {
+  margin: 0 auto;
+  padding: 30px;
+  margin-top: 50px;
+  width: 30%;
 }
 
-.float-left{
-   float:left;
-
+.float-left {
+  float: left;
 }
-.header2{
-    background-color:rgb(44, 155, 103);
-    color:whitesmoke;
-       font-size: medium;
-       margin-top:0px;
-       padding:10px;
+.header2 {
+  background-color: rgb(44, 155, 103);
+  color: whitesmoke;
+  font-size: medium;
+  margin-top: 0px;
+  padding: 10px;
 }
-.reg-form
-    {
-      margin-top:200px;
-        padding:30px;
-        border-radius: 10px;   
-        min-width: 150px;
-        max-width: 500px;
-        width: 100%;
-      }
-
-      
-
+.reg-form {
+  border-radius: 10px;
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
